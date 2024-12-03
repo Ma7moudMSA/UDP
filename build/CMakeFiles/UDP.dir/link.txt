@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/UDP.dir/src/MulticastServer.cpp.o CMakeFiles/UDP.dir/src/UDPSocket.cpp.o CMakeFiles/UDP.dir/src/main.cpp.o  -o UDP 

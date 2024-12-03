@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/houda/Downloads/TCP/TCP/UDP/build",
+  "command": "/usr/bin/g++   -I/home/houda/Downloads/TCP/TCP/UDP/include  -g   -std=gnu++2a -o CMakeFiles/UDP.dir/src/MulticastServer.cpp.o -c /home/houda/Downloads/TCP/TCP/UDP/src/MulticastServer.cpp",
+  "file": "/home/houda/Downloads/TCP/TCP/UDP/src/MulticastServer.cpp"
+},
+{
+  "directory": "/home/houda/Downloads/TCP/TCP/UDP/build",
+  "command": "/usr/bin/g++   -I/home/houda/Downloads/TCP/TCP/UDP/include  -g   -std=gnu++2a -o CMakeFiles/UDP.dir/src/UDPSocket.cpp.o -c /home/houda/Downloads/TCP/TCP/UDP/src/UDPSocket.cpp",
+  "file": "/home/houda/Downloads/TCP/TCP/UDP/src/UDPSocket.cpp"
+},
+{
+  "directory": "/home/houda/Downloads/TCP/TCP/UDP/build",
+  "command": "/usr/bin/g++   -I/home/houda/Downloads/TCP/TCP/UDP/include  -g   -std=gnu++2a -o CMakeFiles/UDP.dir/src/main.cpp.o -c /home/houda/Downloads/TCP/TCP/UDP/src/main.cpp",
+  "file": "/home/houda/Downloads/TCP/TCP/UDP/src/main.cpp"
+}
+]
